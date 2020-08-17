@@ -1,0 +1,8 @@
+{
+	
+	"username":"Admin",
+	"password":"admin123",
+	"invalidusername":"LukeTest",
+	"invalidpassword":"TestSkywalker",
+     "loginConfirmation":"https://cafetownsend-angular-rails.herokuapp.com/employees"
+}
